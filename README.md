@@ -4,4 +4,4 @@ Watch Movies online
 See reviews
 Registration
 Log-in
-Trailers
+Trailer
