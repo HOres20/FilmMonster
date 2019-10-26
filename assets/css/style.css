@@ -129,6 +129,18 @@ border-radius: 0px;
 	background-color: #000000;
 }
 
+.info-block{
+	font-size: 120%;
+}
+
+.info-block .badge{
+	font-size: 80%;
+}
+
+info-block span{
+	margin-right: 3%;
+}
+
 footer{
 	color: #666;
 	background: #222;
