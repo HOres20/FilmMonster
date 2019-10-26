@@ -137,8 +137,16 @@ border-radius: 0px;
 	font-size: 80%;
 }
 
-info-block span{
+.info-block span{
 	margin-right: 3%;
+}
+
+textarea.form-control{
+	height:200px;
+}
+
+.relax{
+	text-align: center;
 }
 
 footer{
