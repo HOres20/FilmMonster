@@ -23,3 +23,6 @@
 
 # Plan:
 ### Plan for week 8- finish FrontEnd
+### Plan for week 9 - start BackEnd (SQL)
+### Plan for week 10 - Javascript
+### Plan for week 11 - CodeIgniter Framework
