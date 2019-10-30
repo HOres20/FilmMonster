@@ -6,9 +6,10 @@
 
 ## Features
 
--
--
--
+- Registration
+- Watch Movie
+- Write and see reviews
+- You can see Films ratings
 
 ## Technologies:
 
