@@ -26,3 +26,7 @@
 ### Plan for week 9 - start BackEnd (SQL)
 ### Plan for week 10 - Javascript
 ### Plan for week 11 - CodeIgniter Framework
+### Plan for week 12 - Add TV-serial page
+### Plan for week 13 - Finish registrtion system\
+### Plan for week 14 - Optimization FrontEnd and Backend
+### Pland for week 15- Finish project
