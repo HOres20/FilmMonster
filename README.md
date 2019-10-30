@@ -14,4 +14,4 @@
 - **CodeIgniter**
 
 # Plan:
-### Create a Website where you can watch movies for free. Finding people with the same interests
+### Plan for week 8- finish FrontEnd
