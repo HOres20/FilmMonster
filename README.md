@@ -1,7 +1,2 @@
-# WebProg
-Futures:
-Watch Movies online
-See reviews
-Registration
-Log-in
-Trailer
+h1 https://github.com/HOres20/WebProg/issues
+About My Project
