@@ -1,5 +1,5 @@
 {
-  "name": "WebProg-master",
+  "name": "FilmMonster",
   "version": "1.0.0",
   "description": "Futures: Watch Movies online See reviews Registration Log-in Trailers",
   "main": "app.js",
@@ -7,9 +7,17 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOres20/FilmMonster.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HOres20/FilmMonster/issues"
+  },
+  "homepage": "https://github.com/HOres20/FilmMonster#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
